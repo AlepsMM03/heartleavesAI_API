@@ -117,7 +117,7 @@ st.markdown(
     """
 Para probar la predicción en vivo, accede a la aplicación web interactiva:
 
-[👉 HeartLeaves AI](http://localhost:8501)  
+[👉 HeartLeaves AI](https://heartleavesai.streamlit.app/)  
 """
 )
 
